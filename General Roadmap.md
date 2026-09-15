@@ -10,6 +10,7 @@
 > 🧪 **Practice is essential:** Try to analyze and simulate the circuits you study using tools such as **LTspice, Multisim, or Proteus** before building them physically.
 
 ---
+## Introduction to Electrical Engineering
 | 📚 **Topic** | 🎯 **Resources** |
 |:---|:---|
 | ⚡ **Basic Electrical Concepts** | 🎥 [Khan Academy – Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering)<br>📖 [All About Circuits – Free Textbook](https://www.allaboutcircuits.com/textbook/) |
