@@ -11,7 +11,7 @@
 
 ---
 ## 🧠 Recommended Learning Path
-```text
+```
    <div align="center">
 
 <table>
