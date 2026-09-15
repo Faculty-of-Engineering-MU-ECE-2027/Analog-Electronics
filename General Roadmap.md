@@ -11,9 +11,7 @@
 
 ---
 ## 🧠 Recommended Learning Path
-```
    <div align="center">
-
 <table>
 <tr>
 <td align="center">
@@ -21,9 +19,7 @@
 </td>
 </tr>
 </table>
-
 ↓
-
 <table>
 <tr>
 <td align="center">
@@ -31,9 +27,7 @@
 </td>
 </tr>
 </table>
-
 ↓
-
 <table>
 <tr>
 <td align="center">
@@ -41,9 +35,7 @@
 </td>
 </tr>
 </table>
-
 ↓
-
 <table>
 <tr>
 <td align="center">
@@ -51,9 +43,7 @@
 </td>
 </tr>
 </table>
-
 ↓
-
 <table>
 <tr>
 <td align="center">
@@ -61,9 +51,7 @@
 </td>
 </tr>
 </table>
-
 ↓
-
 <table>
 <tr>
 <td align="center">
@@ -71,9 +59,7 @@
 </td>
 </tr>
 </table>
-
 ↓
-
 <table>
 <tr>
 <td align="center">
@@ -81,9 +67,7 @@
 </td>
 </tr>
 </table>
-
 ↓
-
 <table>
 <tr>
 <td align="center">
@@ -91,9 +75,7 @@
 </td>
 </tr>
 </table>
-
 ↓
-
 <table>
 <tr>
 <td align="center">
@@ -101,9 +83,8 @@
 </td>
 </tr>
 </table>
-
 </div>
-```
+
 ## 🟢 Beginner Level
 
 ## Introduction to Electrical Engineering & Signals
