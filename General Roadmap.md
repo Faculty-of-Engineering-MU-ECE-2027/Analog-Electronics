@@ -11,12 +11,13 @@
 
 ---
 ## 🧠 Recommended Learning Path
+```text
    <div align="center">
 
 <table>
 <tr>
 <td align="center">
-<b>⚡ Circuits 1</b>
+<b>Circuits 1</b>
 </td>
 </tr>
 </table>
@@ -26,7 +27,7 @@
 <table>
 <tr>
 <td align="center">
-<b>⚡ Circuits 2</b>
+<b>Circuits 2</b>
 </td>
 </tr>
 </table>
@@ -36,7 +37,7 @@
 <table>
 <tr>
 <td align="center">
-<b>📡 Signals</b>
+<b>Signals</b>
 </td>
 </tr>
 </table>
@@ -56,7 +57,7 @@
 <table>
 <tr>
 <td align="center">
-<b>🔌 Electronics 2</b>
+<b>Electronics 2</b>
 </td>
 </tr>
 </table>
@@ -66,7 +67,7 @@
 <table>
 <tr>
 <td align="center">
-<b>🧪 Practice &amp; Problem Solving</b>
+<b>Practice &amp; Problem Solving</b>
 </td>
 </tr>
 </table>
@@ -76,7 +77,7 @@
 <table>
 <tr>
 <td align="center">
-<b>🔬 Introduction to Electronics</b>
+<b>Introduction to Electronics</b>
 </td>
 </tr>
 </table>
@@ -86,7 +87,7 @@
 <table>
 <tr>
 <td align="center">
-<b>💻 CMOS Analog IC Design</b>
+<b>CMOS Analog IC Design</b>
 </td>
 </tr>
 </table>
@@ -96,13 +97,13 @@
 <table>
 <tr>
 <td align="center">
-<b>🚀 Advanced Analog IC Design</b>
+<b>Advanced Analog IC Design</b>
 </td>
 </tr>
 </table>
 
 </div>
-
+```
 ## 🟢 Beginner Level
 
 ## Introduction to Electrical Engineering & Signals
