@@ -13,26 +13,102 @@
 ## 🧠 Recommended Learning Path
 
 ```text
-Circuits 1
-    ↓
-Circuits 2
-    ↓
-Signals
-    ↓
-Electronics 1
-    ↓
-Electronics 2
-    ↓
-Practice & References
-    ↓
-Introduction to Electronics
-    ↓
-CMOS Analog IC Design
-    ↓
-Advanced Analog IC Design
+<div align="center">
 
-## 🟢 Beginner Level
+<table>
+<tr>
+<td align="center">
+
+**⚡ Circuits 1**
+
+</td>
+</tr>
+<tr>
+<td align="center">↓</td>
+</tr>
+<tr>
+<td align="center">
+
+**⚡ Circuits 2**
+
+</td>
+</tr>
+<tr>
+<td align="center">↓</td>
+</tr>
+<tr>
+<td align="center">
+
+**📡 Signals**
+
+</td>
+</tr>
+<tr>
+<td align="center">↓</td>
+</tr>
+<tr>
+<td align="center">
+
+**🔌 Electronics 1**
+
+</td>
+</tr>
+<tr>
+<td align="center">↓</td>
+</tr>
+<tr>
+<td align="center">
+
+**🔌 Electronics 2**
+
+</td>
+</tr>
+<tr>
+<td align="center">↓</td>
+</tr>
+<tr>
+<td align="center">
+
+**🧪 Practice & Problem Solving**
+
+</td>
+</tr>
+<tr>
+<td align="center">↓</td>
+</tr>
+<tr>
+<td align="center">
+
+**🔬 Introduction to Electronics**
+
+</td>
+</tr>
+<tr>
+<td align="center">↓</td>
+</tr>
+<tr>
+<td align="center">
+
+**💻 CMOS Analog IC Design**
+
+</td>
+</tr>
+<tr>
+<td align="center">↓</td>
+</tr>
+<tr>
+<td align="center">
+
+**🚀 Advanced Analog IC Design**
+
+</td>
+</tr>
+</table>
+
+</div>
 ```
+## 🟢 Beginner Level
+
 ## Introduction to Electrical Engineering & Signals
 | 📚 **Topic** | 🎯 **Resources** |
 |:---|:---|
