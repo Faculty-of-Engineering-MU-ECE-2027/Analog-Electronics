@@ -16,89 +16,87 @@
 <table>
 <tr>
 <td align="center">
-
-**⚡ Circuits 1**
-
+<b>⚡ Circuits 1</b>
 </td>
 </tr>
-<tr>
-<td align="center">↓</td>
-</tr>
+</table>
+
+⬇️
+
+<table>
 <tr>
 <td align="center">
-
-**⚡ Circuits 2**
-
+<b>⚡ Circuits 2</b>
 </td>
 </tr>
-<tr>
-<td align="center">↓</td>
-</tr>
+</table>
+
+⬇️
+
+<table>
 <tr>
 <td align="center">
-
-**📡 Signals**
-
+<b>📡 Signals</b>
 </td>
 </tr>
-<tr>
-<td align="center">↓</td>
-</tr>
+</table>
+
+⬇️
+
+<table>
 <tr>
 <td align="center">
-
-**🔌 Electronics 1**
-
+<b>🔌 Electronics 1</b>
 </td>
 </tr>
-<tr>
-<td align="center">↓</td>
-</tr>
+</table>
+
+⬇️
+
+<table>
 <tr>
 <td align="center">
-
-**🔌 Electronics 2**
-
+<b>🔌 Electronics 2</b>
 </td>
 </tr>
-<tr>
-<td align="center">↓</td>
-</tr>
+</table>
+
+⬇️
+
+<table>
 <tr>
 <td align="center">
-
-**🧪 Practice & Problem Solving**
-
+<b>🧪 Practice &amp; Problem Solving</b>
 </td>
 </tr>
-<tr>
-<td align="center">↓</td>
-</tr>
+</table>
+
+⬇️
+
+<table>
 <tr>
 <td align="center">
-
-**🔬 Introduction to Electronics**
-
+<b>🔬 Introduction to Electronics</b>
 </td>
 </tr>
-<tr>
-<td align="center">↓</td>
-</tr>
+</table>
+
+⬇️
+
+<table>
 <tr>
 <td align="center">
-
-**💻 CMOS Analog IC Design**
-
+<b>💻 CMOS Analog IC Design</b>
 </td>
 </tr>
-<tr>
-<td align="center">↓</td>
-</tr>
+</table>
+
+⬇️
+
+<table>
 <tr>
 <td align="center">
-
-**🚀 Advanced Analog IC Design**
-
+<b>🚀 Advanced Analog IC Design</b>
 </td>
 </tr>
 </table>
