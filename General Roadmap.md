@@ -11,8 +11,6 @@
 
 ---
 ## 🧠 Recommended Learning Path
-
-```text
 <div align="center">
 
 <table>
@@ -106,7 +104,7 @@
 </table>
 
 </div>
-```
+
 ## 🟢 Beginner Level
 
 ## Introduction to Electrical Engineering & Signals
