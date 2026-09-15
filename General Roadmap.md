@@ -11,23 +11,97 @@
 
 ---
 ## 🧠 Recommended Learning Path
-       ┌─────────────────────────────┐
-       │       ⚡ Circuits 1         │
-       └─────────────────────────────┘
-                    ⬇️
-       ┌─────────────────────────────┐
-       │       ⚡ Circuits 2         │
-       └─────────────────────────────┘
-                    ⬇️
-       ┌─────────────────────────────┐
-       │         📡 Signals          │
-       └─────────────────────────────┘
-                    ⬇️
-       ┌─────────────────────────────┐
-       │      🔌 Electronics 1       │
-       └─────────────────────────────┘
-                    ⬇️
-                  ...
+   <div align="center">
+
+<table>
+<tr>
+<td align="center">
+<b>⚡ Circuits 1</b>
+</td>
+</tr>
+</table>
+
+↓
+
+<table>
+<tr>
+<td align="center">
+<b>⚡ Circuits 2</b>
+</td>
+</tr>
+</table>
+
+↓
+
+<table>
+<tr>
+<td align="center">
+<b>📡 Signals</b>
+</td>
+</tr>
+</table>
+
+↓
+
+<table>
+<tr>
+<td align="center">
+<b>🔌 Electronics 1</b>
+</td>
+</tr>
+</table>
+
+↓
+
+<table>
+<tr>
+<td align="center">
+<b>🔌 Electronics 2</b>
+</td>
+</tr>
+</table>
+
+↓
+
+<table>
+<tr>
+<td align="center">
+<b>🧪 Practice &amp; Problem Solving</b>
+</td>
+</tr>
+</table>
+
+↓
+
+<table>
+<tr>
+<td align="center">
+<b>🔬 Introduction to Electronics</b>
+</td>
+</tr>
+</table>
+
+↓
+
+<table>
+<tr>
+<td align="center">
+<b>💻 CMOS Analog IC Design</b>
+</td>
+</tr>
+</table>
+
+↓
+
+<table>
+<tr>
+<td align="center">
+<b>🚀 Advanced Analog IC Design</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🟢 Beginner Level
 
